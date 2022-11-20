@@ -15,4 +15,6 @@ Wishlist for new ReScript bindings
 | [React Error Boundary](https://github.com/bvaughn/react-error-boundary) | `^9.0.0`, `^10.0.0` | [cometkim/rescript-react-error-boundary](https://github.com/cometkim/rescript-react-error-boundary) |
 | [Vitest](https://vitest.dev/) | `^9.1.0`, `^10.0.0` | [cometkim/rescript-vitest](https://github.com/cometkim/rescript-vitest) |
 
+## ReScript PPX
+
 ## OCaml Bindings to C lib
